@@ -1,0 +1,11 @@
+{
+  "name": "response-emitter",
+  "version": "1.0.0",
+  "description": "A simple program to emit response events",
+  "main": "index.js",
+  "author": "Nathan Bowser <nathan.bowser@spiderstrategies.com>",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "event-stream": "~3.0.16"
+  }
+}
